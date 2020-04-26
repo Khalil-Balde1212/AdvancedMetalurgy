@@ -1,0 +1,24 @@
+{
+    "item.adv-metal.copper_ingot" : "Copper Ingot",
+    "item.adv-metal.steel_ingot" : "Steel Ingot",
+
+    "block.adv-metal.copper_ore" : "Copper Ore",
+
+    "block.adv-metal.copper_block" : "Copper Block",
+    "block.adv-metal.steel_block" : "Steel Block",
+
+    "item.adv-metal.copper_helmet" : "Copper Helmet",
+    "item.adv-metal.copper_chestplate" : "Copper Chestplate",
+    "item.adv-metal.copper_leggings" : "Copper Leggings",
+    "item.adv-metal.copper_boots" : "Copper Boots",
+
+    "item.adv-metal.steel_helmet" : "Steel Helmet",
+    "item.adv-metal.steel_chestplate" : "Steel Chestplate",
+    "item.adv-metal.steel_leggings" : "Steel Leggings",
+    "item.adv-metal.steel_boots" : "Steel Boots",
+
+    "item.adv-metal.copper_pickaxe" : "Copper Pickaxe",
+    "item.adv-metal.copper_shovel" : "Copper Shovel",
+    "item.adv-metal.copper_axe" : "Copper Axe",
+    "item.adv-metal.copper_hoe" : "Copper Hoe"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "adv-metal",
+  "version": "${version}",
+  "name": "AdvancedMetalurgy",
+  "description": "Adding metalurgy to the game",
+  "authors": [
+    "Khalil Balde"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/adv-metal/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "AdvancedMetalurgy.AdvancedMetalurgyMain"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "adv-metal.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
